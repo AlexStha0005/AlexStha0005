@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexStha0005
-- 👀 I’m interested in ...watching annimes
+- 👀 I’m interested in ...watching animes
 - 🌱 I’m currently learning ...Pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email=shrestha54566@gmail.com
