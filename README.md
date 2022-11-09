@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexStha0005
 - 👀 I’m interested in ...watching animes
-- 🌱 I’m currently learning ...Pyhton
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email=shrestha54566@gmail.com
 
